@@ -1,6 +1,6 @@
 package week2;
 
-public class Astrongnumber {
+public class Armstrongnumber {
 	public static void main(String[] args) {
 		int number=150;
 		int sum=0;
