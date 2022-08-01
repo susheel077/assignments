@@ -1,9 +1,8 @@
-package week2.day1;
+package week2;
 
 public class Calculator {
 	public int add(int a,int b)  {
-		int c=a+b;
-		return c;
+		return a+b;
 	}
 	public int sub(int e,int f) {
 		return e-f;
@@ -26,4 +25,7 @@ public class Calculator {
 	System.out.println(divide+"f");
 	}
 
+	
 }
+
+
